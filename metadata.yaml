@@ -1,0 +1,35 @@
+_repo: Twelve-poems_74892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edith_Wharton
+    - https://fr.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74892'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/102841083
+pgterms:marc905: 20240315104413wharton
+pgterms:marc906: '1926'
+pgterms:marc907: gb
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bMedici Society, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Twelve poems
+url: http://www.gutenberg.org/ebooks/74892
